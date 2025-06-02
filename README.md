@@ -17,15 +17,15 @@ There's nothing particularly important here, so simply download it and it should
 Just click the download button.
 
 ```
-*clicks the download button on hello world
+*clicks the download button on index.html and img_hello_world.jpg
 ```
 
 ## Usage
 
-Double click the Hello World and it should work.
+Double click the index.html file and it should work.
 
 ```
-*Double click on Hello World
+*Double click on index.html
 ```
 
 ## Deployment
