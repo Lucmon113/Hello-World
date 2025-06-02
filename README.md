@@ -30,11 +30,11 @@ Double click the index.html file and it should work.
 
 ## Deployment
 
-It should automatically open your browser; if it didn't, then ask a specialist, I'm not one.
+It should automatically open your browser; if it didn't, then ask a specialist, I'm not one for now.
 
 ### Server
 
-* There is no server other than my own Minecraft server
+* There is no server other than my own Minecraft server and discord server
 
 ### Branches
 
@@ -43,4 +43,4 @@ It should automatically open your browser; if it didn't, then ask a specialist, 
 
 ## Additional Documentation and Acknowledgments
 
-* Thanks Professor, for explaining how to do this kind of stuff
+* Thanks to my Professor, for explaining how to do this kind of stuff
